@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+data/
+model.h/
+sample/
+venv/
+data.rar
