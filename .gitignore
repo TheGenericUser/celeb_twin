@@ -5,3 +5,5 @@ model.h/
 sample/
 venv/
 data.rar
+embedding.pkl
+filenames.pkl
